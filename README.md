@@ -8,9 +8,10 @@ This repository contains a variety of scripts tailored for the Flipper Zero, a v
 
 ## Structure 📂
 
-- **_TEMPLATE.js**: A template script provided by [@JetBlk](https://github.com/jetblk) This serves as a foundation for creating new scripts tailored for the Flipper Zero.
+- **_TEMPLATE.js**: A template script provided by [@JetBlk](https://github.com/jetblk). This serves as a foundation for creating new scripts tailored for the Flipper Zero.
 - **untested scripts**: This folder contains scripts that are still in the testing phase and may not yet be fully reliable.
 - **valid scripts**: This folder contains scripts that have been tested and verified to work as intended on the Flipper Zero.
+- **resources**: This folder contains frequently used resources, such as libraries, utilities, or references, to aid in script development and usage.
 
 ## Credits ✨
 
@@ -19,4 +20,3 @@ Scripts within the **untested scripts** and **valid scripts** folders may includ
 ## Disclaimer ⚠️
 
 This repository is intended for educational purposes only. The scripts provided are to be used responsibly and ethically. The authors of this repository do not condone any illegal activities or misuse of the scripts provided here.
-
