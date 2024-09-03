@@ -1,3 +1,10 @@
+// Version 1.0
+//
+// Author: MrPotatoXx (https://github.com/MrPotatoXx)
+//
+// This script is to disable Windows Defender on a Windows machine.
+//
+
 let badusb = require("badusb");
 
 badusb.setup({ vid: 0xAAAA, pid: 0xBBBB, mfr_name: "Flipper", prod_name: "Zero" });
